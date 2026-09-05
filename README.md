@@ -207,9 +207,9 @@ Contributing to the technical development and security of **Neski**, with a focu
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mevindu-4/mevindu-4/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mevindu-4/mevindu-4/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/mevindu-4/mevindu-4/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mevindu-4/mevindu-4/gh-pages/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mevindu-4/mevindu-4/gh-pages/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/mevindu-4/mevindu-4/gh-pages/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
