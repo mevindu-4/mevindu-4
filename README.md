@@ -34,7 +34,7 @@ Building practical software, exploring embedded systems, and turning ideas into 
 
 ## 👨‍💻 About Me
 
-I'm **Mevindu Basnayake**, an **Electronics & Computer Science undergraduate** with a strong interest in software development, full-stack web development, electronics, embedded systems, cybersecurity, and UI/UX.
+I'm **Mevindu Basnayake**, an **Electronics & Computer Science undergraduate** interested in software engineering, full-stack development, electronics, embedded systems, cybersecurity, and UI/UX.
 
 I enjoy combining software and engineering concepts to create practical products, improve systems, and solve real-world problems.
 
